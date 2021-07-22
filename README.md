@@ -11,6 +11,15 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+ ___       __   _______   ___       ________  ________  _____ ______   _______      
+|\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
+\ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
+ \ \  \  __\ \  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \ \  \\|__| \  \ \  \_|/__  
+  \ \  \|\__\_\  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ \  \    \ \  \ \  \_|\ \ 
+   \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
+    \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
+    
+
 Hi, I'm Karan, aka DatIndiKid.
 
 You can find projects related to the following here --
@@ -26,8 +35,8 @@ I'm currently learning Operating Systems, Software Development using Win32 SDK a
 I'd love to collaborate on projects involving the same!
 
 
-
-Reach out to me on Twitter: https://twitter.com/datindikid<br>
-Connect with me on Discord: karanP#6528<br>
-Follow me on twitch: https://www.twitch.tv/datindikid<br>
-Check me out on Youtube: https://www.youtube.com/channel/UCWMa_V8Hn3OAXjovbbMsXsQ<br>
+Connect with me here: <br>
+Twitter: https://twitter.com/datindikid<br>
+Discord: karanP#6528<br>
+Twitch: https://www.twitch.tv/datindikid<br>
+Youtube: https://www.youtube.com/channel/UCWMa_V8Hn3OAXjovbbMsXsQ<br>
