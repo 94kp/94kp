@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Karan, aka DatIndiKid.
 
-You can find projects related to the following here --
+You can find my projects related to the following here --
 
 -> Machine Learning / Artificial Intelligence <br>
 -> Win32 SDK <br>
