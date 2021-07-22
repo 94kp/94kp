@@ -25,7 +25,9 @@ I'm currently learning Operating Systems, Software Development using Win32 SDK a
 
 I'd love to collaborate on projects involving the same!
 
-Reach out to me on Twitter: https://twitter.com/datindikid
-Connect with me on Discord: karanP#6528
-Follow me on twitch: https://www.twitch.tv/datindikid
-Check me out on Youtube: https://www.youtube.com/channel/UCWMa_V8Hn3OAXjovbbMsXsQ
+
+
+Reach out to me on Twitter: https://twitter.com/datindikid<br>
+Connect with me on Discord: karanP#6528<br>
+Follow me on twitch: https://www.twitch.tv/datindikid<br>
+Check me out on Youtube: https://www.youtube.com/channel/UCWMa_V8Hn3OAXjovbbMsXsQ<br>
