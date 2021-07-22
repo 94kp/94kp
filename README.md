@@ -13,13 +13,13 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Karan, aka DatIndiKid.
 
-You can find the following types of projects on my GitHub profile -
+You can find projects related to the following here --
 
-- Machine Learning / Artificial Intelligence
-- Win32 SDK
-- Programming practice problems from various books (Will update the list here, once it has been uploaded)
-- Programming practice problems from various online sources (Will update the list here, with links and all)
-- Any other programming projects I take up any time.
+-> Machine Learning / Artificial Intelligence
+-> Win32 SDK
+-> Programming practice problems from various books (Will update the list here, once it has been uploaded)
+-> Programming practice problems from various online sources (Will update the list here, with links and all)
+-> Any other programming projects I take up any time.
 
 I'm currently learning Operating Systems, Software Development using Win32 SDK and COM, and Machine Learning/AI.
 
@@ -27,3 +27,5 @@ I'd love to collaborate on projects involving the same!
 
 Reach out to me on Twitter: https://twitter.com/datindikid
 Connect with me on Discord: karanP#6528
+Follow me on twitch: https://www.twitch.tv/datindikid
+Check me out on Youtube: https://www.youtube.com/channel/UCWMa_V8Hn3OAXjovbbMsXsQ
