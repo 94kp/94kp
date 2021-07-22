@@ -19,18 +19,19 @@ You can click the Preview link to take a look at your changes.
                              \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
                               \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
                                                                              
-</pre>                                                                            
+</pre> 
+
 Hi, I'm Karan, aka DatIndiKid.
 
 You can find projects related to the following here --
 
--> Machine Learning / Artificial Intelligence
--> Win32 SDK
--> Programming practice problems from various books (Will update the list here, once it has been uploaded)
--> Programming practice problems from various online sources (Will update the list here, with links and all)
--> Any other programming projects I take up any time.
+-> Machine Learning / Artificial Intelligence <br>
+-> Win32 SDK <br>
+-> Programming practice problems from various books (Will update the list here, once it has been uploaded) <br>
+-> Programming practice problems from various online sources (Will update the list here, with links and all) <br>
+-> Any other programming projects I take up any time. <br>
 
-I'm currently learning Operating Systems, Software Development using Win32 SDK and COM, and Machine Learning/AI.
+I'm currently studying Operating Systems, Software Development using Win32 SDK and COM, Machine Learning/AI.
 
 I'd love to collaborate on projects involving the same!
 
