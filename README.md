@@ -25,4 +25,5 @@ I'm currently learning Operating Systems, Software Development using Win32 SDK a
 
 I'd love to collaborate on projects involving the same!
 
-You can reach out to me on discord!
+Reach out to me on Twitter: https://twitter.com/datindikid
+Connect with me on Discord: karanP#6528
