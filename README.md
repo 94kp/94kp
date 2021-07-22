@@ -11,6 +11,7 @@
 You can click the Preview link to take a look at your changes.
 --->
 
+<pre>
  ___       __   _______   ___       ________  ________  _____ ______   _______      
 |\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
 \ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
@@ -20,6 +21,7 @@ You can click the Preview link to take a look at your changes.
     \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
     
 
+</pre>
 Hi, I'm Karan, aka DatIndiKid.
 
 You can find projects related to the following here --
