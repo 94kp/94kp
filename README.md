@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
                                                                              
 </pre> 
 
-Hi, I'm Karan, aka DatIndiKid.
+Hi, I'm Karan
 
 You can find my projects related to the following here --
 
