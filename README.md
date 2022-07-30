@@ -37,6 +37,7 @@ I'd love to collaborate on projects involving the same!
 
 
 Connect with me here: <br>
+Email: kwizard@duck.com
 Twitter: https://twitter.com/cyb3rspac3r<br>
 Discord: karanP#6528<br>
 Twitch: https://www.twitch.tv/dat_indi_kid<br>
