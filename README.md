@@ -29,8 +29,7 @@ You can find my projects related to the following here --
 -> Win32 SDK <br>
 -> Programming practice problems from various books (Will update the list here, once it has been uploaded) <br>
 -> Programming practice problems from various online sources (Will update the list here, with links and all) <br>
--> Any other programming projects I take up any time. <br>
-<blockquote style=”border:none”> ->Programs for the Atari 2600</blockquote>
+-> Programs for the Atari 2600
 
 I'm currently studying Operating Systems, Software Development using Win32 SDK and COM, Machine Learning/AI.
 
