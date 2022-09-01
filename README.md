@@ -26,7 +26,7 @@ Hi, I'm Karan
 You can find my projects related to the following here --
 
 -> Machine Learning / Artificial Intelligence <br>
--> Win32 SDK <br>
+-> <a href = "">Win32 SDK and COM </a><br>
 -> Programming practice problems from various books<br>
 -> Programming practice problems from various online sources <br>
 -> <a href = "https://github.com/94kp/Atari2600">Atari 2600</a><br>
