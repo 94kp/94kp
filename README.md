@@ -23,16 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Karan
 
-You can find my projects related to the following here --
-
--> Machine Learning / Artificial Intelligence <br>
--> <a href = "https://github.com/94kp/Win32SDK-and-COM">Win32 SDK and COM </a><br>
--> <a href = "https://github.com/94kp/programming_exercises_c_cpp">Programming practice problems from various books</a><br>
--> Programming practice problems from various online sources <br>
--> <a href = "https://github.com/94kp/Atari2600">Atari 2600</a><br>
--> <a href = "https://github.com/94kp/WebDev">Web Development</a>
-
-I'm currently studying Operating Systems, Software Development using Win32 SDK and COM, Machine Learning/AI.
+I'm currently studying Graphics Technologies and Game Engines!
 
 I'd love to collaborate on projects involving the same!
 
