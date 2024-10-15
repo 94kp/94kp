@@ -16,8 +16,6 @@ I'm into Machine Learning, Graphics Technologies, Game Engines!
 
 I'd love to collaborate on projects involving the same!
 
-[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=94kp)](https://github.com/94kp/github-readme-stats)
-
 Connect with me here: <br>
 Email: kwizard@duck.com<br>
 Twitter: https://twitter.com/cyb3rspac3r<br>
