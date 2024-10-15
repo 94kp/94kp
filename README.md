@@ -10,23 +10,13 @@
 94kp/94kp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<pre>
-           ___       __   _______   ___       ________  ________  _____ ______   _______      
-          |\  \     |\  \|\  ___ \ |\  \     |\   ____\|\   __  \|\   _ \  _   \|\  ___ \     
-          \ \  \    \ \  \ \   __/|\ \  \    \ \  \___|\ \  \|\  \ \  \\\__\ \  \ \   __/|    
-           \ \  \  __\ \  \ \  \_|/_\ \  \    \ \  \    \ \  \\\  \ \  \\|__| \  \ \  \_|/__  
-            \ \  \|\__\_\  \ \  \_|\ \ \  \____\ \  \____\ \  \\\  \ \  \    \ \  \ \  \_|\ \ 
-             \ \____________\ \_______\ \_______\ \_______\ \_______\ \__\    \ \__\ \_______\
-              \|____________|\|_______|\|_______|\|_______|\|_______|\|__|     \|__|\|_______|
-
-</pre> 
-
 Hi, I'm Karan
 
-I'm currently studying Graphics Technologies and Game Engines!
+I'm into Machine Learning, Graphics Technologies, Game Engines!
 
 I'd love to collaborate on projects involving the same!
 
+[![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=94kp)](https://github.com/94kp/github-readme-stats)
 
 Connect with me here: <br>
 Email: kwizard@duck.com<br>
