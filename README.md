@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, I'm Karan
 
-I'm into AI - specifically autonomous navigation and perception.
+I'm into AI - specifically autonomous navigation and perception. Also love low level stuff!
 
 I'd love to collaborate on projects involving the same!
 
